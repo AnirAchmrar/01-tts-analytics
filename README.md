@@ -1,7 +1,7 @@
 ![img.png](img.png)
 
-# **Beginner friendly: deploy a Spring Boot application on Kubernetes**
-Deploying our applications on Kubernetes may help us with a lot of heavy deploy-related tasks like service discovery and horizontal scaling... With Kubernetes, we don't need to include those concerns in our code, instead those concerns are exported to be handled by Kubernetes.
+# **Beginner friendly: deploy a Spring Boot application to Kubernetes**
+Deploying our applications to Kubernetes may help us with a lot of heavy deploy-related tasks like service discovery and horizontal scaling... With Kubernetes, we don't need to include those concerns in our code, instead those concerns are exported to be handled by Kubernetes.
 
 We are going to deploy two microservices to a Kubernetes cluster using the following Kubernetes resources:
 
