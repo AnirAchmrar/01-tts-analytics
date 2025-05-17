@@ -1,5 +1,5 @@
 spring:
   application:
-    name: consumer
+    name: tts-analytics
 server:
   port: 8090
